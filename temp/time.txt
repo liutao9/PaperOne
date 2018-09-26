@@ -1,0 +1,36 @@
+圆环
+
+我们的方法：
+cost time is :4.2659218311309814,mean of the cost time is :0.13331005722284317 
+
+方法一：
+cost time is :24.64994788169861,mean of the cost time is :0.7703108713030815 
+
+
+方法三：
+cost time is :0.015624284744262695,mean of the cost time is :0.00048825889825820923  
+
+
+带有狭窄的圆环
+
+我们的方法：
+cost time is :5.9906628131866455,mean of the cost time is :0.18720821291208267 
+
+方法一：
+cost time is :18.779975414276123,mean of the cost time is :0.5868742316961288 
+
+方法三：
+cost time is :0.015628576278686523,mean of the cost time is :0.0004883930087089539 
+
+真实血管
+
+我们的方法：
+cost time is :3.8107075691223145,mean of the cost time is :0.23816922307014465 
+
+方法一：
+cost time is :3.610222339630127,mean of the cost time is :0.22563889622688293   
+
+方法三：
+cost time is :0.015618085861206055,mean of the cost time is :0.0009761303663253784  
+
+

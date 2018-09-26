@@ -1,0 +1,9 @@
+mean of method one: 113.09733552923255
+mean of method three: 173.6404717292562
+mean of method our: 150.97294783987206
+the average relative error of method one is: 0.2653061224489796
+the standard deviation of method one is 7.2196847745073445
+the average relative error of method three is: 0.12798936312325038
+the standard deviation of method three is 4.288409859026855
+the average relative error of method our is: 0.021024956861604226
+the standard deviation of method our is 0.6792046062408914
