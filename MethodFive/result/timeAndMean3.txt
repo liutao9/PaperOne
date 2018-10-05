@@ -1,0 +1,1 @@
+cost time is :9.27570128440857,mean of the cost time is :0.7135154834160438 
